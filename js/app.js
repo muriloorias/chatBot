@@ -33,5 +33,5 @@ function readInput() {
 
 //redirect user to commands
 function toCommands(){
-  
+  window.location.href = "commandList.html";
 }
